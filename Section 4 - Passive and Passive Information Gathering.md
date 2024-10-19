@@ -13,7 +13,6 @@ There are the two type of information gatherin:<br>
 
 <h1>Tools</h1>
 <h3>Whois</h3>
-![1](https://github.com/user-attachments/assets/64f12570-7a26-453d-91d9-f105db1ab6ef)
-<br>
 
+![1](https://github.com/user-attachments/assets/f5c5796a-4789-48a7-9ac6-124a565bcadd)
 
