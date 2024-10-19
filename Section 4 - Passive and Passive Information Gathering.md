@@ -23,3 +23,7 @@ There are the two type of information gatherin:<br>
 theHarvester --help
 
 ![1](https://github.com/user-attachments/assets/c085ad27-ed10-4f8e-b0d7-66209a2ec2ac)
+
+theHarvester -d google.com -l 200 --source yahoo
+
+<h3>Maltego</h3>
