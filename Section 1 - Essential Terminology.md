@@ -3,3 +3,6 @@
 3. Availability<br>
 4. Authenticity<br>
 5. Non-Repudiation<br>
+
+<h1>Penetration Testing Terminology</h1>
+To Identifiy vulnerabilites and then try to exploit them and if they can be expolited, you can document how they can be exploited.
