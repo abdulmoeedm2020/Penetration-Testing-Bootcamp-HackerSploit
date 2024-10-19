@@ -5,8 +5,7 @@ https://www.classcentral.com/classroom/youtube-penetration-testing-bootcamp-5318
 Section 1 - Essential Terminology <br>
 Section 2 - Introduction to Penetration Testing & Penetration Testing Methodologies<br>
 Section 3 - Setting Up A Pentesting Lab<br>
-Section 4 - Passive Information Gathering<br>
-Section 5 - Active Information Gathering<br>
+Section 4 - Passive and Active Information Gathering and tools<br>
 Section 6 - Enumeration<br>
 Section 7 - Vulnerability Scanner<br>
 Section 8 - Network Penetration Testing<br>
