@@ -6,4 +6,7 @@
 5. Non-Repudiation<br>
 
 <h1>Penetration Testing Terminology</h1>
-To Identifiy vulnerabilites and then try to exploit them and if they can be expolited, you can document how they can be exploited.
+To Identifiy vulnerabilites and then try to exploit them and if they can be expolited, you can document how they can be exploited.<br>
+The agreement between an organization and a penetration tester should include the following:<br>
+  1. Scope -  What to test
+  2. Timeframe -  When to test, and how long the test will take.
