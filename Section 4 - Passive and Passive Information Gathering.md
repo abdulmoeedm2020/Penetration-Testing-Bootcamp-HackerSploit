@@ -13,7 +13,7 @@ There are the two type of information gatherin:<br>
 
 <h1>Tools</h1>
 <h3>Whois</h3>
-
+whois google.com<br>
 ![1](https://github.com/user-attachments/assets/f5c5796a-4789-48a7-9ac6-124a565bcadd)
 
 <h3>theHarvester</h3>
