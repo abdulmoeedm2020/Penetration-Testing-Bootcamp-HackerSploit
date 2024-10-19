@@ -19,3 +19,9 @@ The agreement between an organization and a penetration tester should include th
 <h1>Types of penetration tests</h1>
 
 <h1>Penetration Testing Phases</h1>
+
+<h1>Pentetrtion testing methodologies</h1>
+
+<h3>Open Source penetration testing methodologies</h3>
+1. OSSTMM
+2. OWASP
