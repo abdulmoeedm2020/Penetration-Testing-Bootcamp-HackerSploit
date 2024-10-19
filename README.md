@@ -1,7 +1,7 @@
 # Penetration-Testing-Bootcamp-HackerSploit
 
 https://www.classcentral.com/classroom/youtube-penetration-testing-bootcamp-53185
-<h1>Over View</h1>
+<h1>Overview</h1>
 Section 1 - Essential Terminology <br>
 Section 2 - Introduction to Penetration Testing & Penetration Testing Methodologies<br>
 Section 3 - Setting Up A Pentesting Lab<br>
