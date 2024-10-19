@@ -6,3 +6,7 @@ There are the two type of information gatherin:<br>
 2. Active
 
 <h1>Passive </h1>
+
+<h1>Active</h1>
+
+<h1>Objective</h1>
