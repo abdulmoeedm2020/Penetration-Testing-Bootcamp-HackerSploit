@@ -12,3 +12,10 @@ The agreement between an organization and a penetration tester should include th
   2. Timeframe -  When to test, and how long the test will take.
 
 <h1>Importance of penetration testing</h1>
+
+
+<h1>Blue Team & Red Team</h1>
+
+<h1>Types of penetration tests</h1>
+
+<h1>Penetration Testing Phases</h1>
